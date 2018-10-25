@@ -11,7 +11,7 @@ player addAction ["<t color=""#42BFF4"">FPS</t>", fps];
 fps = {
 while {true} do {
 hint str(diag_fps);
-sleep 0.06;
+sleep 0.07;
   };
 };
  
